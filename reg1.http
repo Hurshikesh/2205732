@@ -1,0 +1,12 @@
+POST http://20.244.56.144/evaluation-service/register
+Content-Type: application/json
+
+{
+    "email": "2205732@kiit.ac.in",
+    "name": "hurshikesh",
+    "mobileNo": "8895640150",
+    "githubUsername": "https://github.com/Hurshikesh",
+    "rollNo": "two two zero five seven three two",
+    "collegeName": "Kalinga Institute of Industrial Technology",
+    "accessCode": "nwpwrZ"
+}
